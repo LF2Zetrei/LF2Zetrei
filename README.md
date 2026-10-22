@@ -1,7 +1,6 @@
-
 ### Lucas Fernandes — Cloud & DevOps Engineer
 
-Recent graduate of **CY Tech** (Cloud Computing Engineering track).
+Cloud computing engineer, graduated from **CY Tech** in 2026.
 I like building systems that run reliably, and understanding how they work underneath: infrastructure, automation, CI/CD.
 
 🔎 **Looking for my first role** in DevOps, SRE, Platform or Cloud Engineering.
